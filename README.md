@@ -20,7 +20,9 @@ set all environmental variables according to tutorial (see Setup and Configurati
 
 
 take the already-made .nii file from scanner - should be gzipped into a .gz file, if not, can zip it back via gzip.
+
 put this .nii.gz file into directory: 3dbrain/freesurfer and rename it struct.nii.gz
+
 proceed with making a surface model with freesurfer - see section below: Step 2 - Create Surface Model with FreeSurfer	
 
 	mkdir -p $SUBJECTS_DIR/${subject}/mri/orig   
