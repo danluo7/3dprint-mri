@@ -38,6 +38,6 @@ then follow step 3 on github page to concatenate the 2 hemispheres:
   
 (will need to remember that I set subject=sub001 as dan_brain)
   
-run cura to visualize (see below)
+run cura to visualize - navigate to folder where cura is downloaded then ./cura
   
 print brain at www.3dprinteros.com and sign in thru SSO → Duke
